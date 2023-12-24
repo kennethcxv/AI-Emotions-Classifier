@@ -17,12 +17,12 @@ Emotion Detecting AI is a sophisticated emotion classification system, expertly 
 ## Getting Started
 To set up the project locally, follow these steps:
 
-## Prerequisites
+### Prerequisites
 - Python 3.x
 - Node.js and npm or yarn
 - React
 
-## Installation
+### Installation
 Clone the repository
   ```git clone https://github.com/kennethcxv/AI-Emotions-Classifier.git```
   
@@ -32,7 +32,7 @@ Install Python dependencies
 Install JavaScript dependencies
   ```npm install``` or ```yarn install```
 
-## Usage
+### Usage
 Launch the backend server:
   ```python server.py```
 
